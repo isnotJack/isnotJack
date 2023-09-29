@@ -15,6 +15,6 @@ I'm Giacomo, a Computer Engineering student at University of Pisa.
 
 **Socials**
 
-- LinkedIn: [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/giacomo-maldarella-509aa321a/)
+<i class="fa-brands fa-linkedin"></i>
 - [Instagram](https://www.instagram.com/_jack.mald_/)https://www.instagram.com/_jack.mald_/)
 
