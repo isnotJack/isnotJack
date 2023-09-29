@@ -5,15 +5,13 @@ I'm Giacomo, a Computer Engineering student at University of Pisa.
 - 🎓 Bachelor's degree in Computer Engineering at University of Pisa
 - 👨‍💻 I'm a now attending a master's degree in Cybersecurity
 
+**Skills:**
 
-**Skills**
+- <i class="fab fa-html5"></i> HTML5
+- <i class="fab fa-css3"></i> CSS3
+- <i class="fab fa-js"></i> JavaScript
+- <i class="fab fa-python"></i> Python
 
-- C
-- C++
-- JavaScript
-- PHP
-- Python
-- HTML5
 
 **Socials**
 
