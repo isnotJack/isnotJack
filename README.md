@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**isnotJack/isnotJack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Giacomo, a Computer Engineering student at University of Pisa.
 
-Here are some ideas to get you started:
+- 🎓 Bachelor's degree in Computer Engineering at University of Pisa
+- 👨‍💻 I'm a now attending a master's degree in Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Skills**
+
+- C
+- C++
+- JavaScript
+- PHP
+- Python
+- HTML5
+
+**Socials**
+
+- [LinkedIn](https://www.linkedin.com/in/giacomo-maldarella-509aa321a/)https://www.linkedin.com/in/giacomo-maldarella-509aa321a/)
+- [Instagram](https://www.instagram.com/_jack.mald_/)https://www.instagram.com/_jack.mald_/)
+
