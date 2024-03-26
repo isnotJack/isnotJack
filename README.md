@@ -9,7 +9,7 @@
 
 - 🎓 I already have **Bachelor's degree in Computer Engineering**
 
-- 👯 I’m looking to collaborate on **CTF game**
+- 👯 I’m looking to collaborate on **CTF games**
 
 - 💬 Ideas? **Just message me**
 
