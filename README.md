@@ -9,13 +9,13 @@
 
 - 🎓 I already have **Bachelor's degree in Computer Engineering**
 
-- 👯 I’m looking to collaborate on **CTF games**
+- 👯 I’m looking to collaborate on **CTF games** and **any interesting projects** 
 
 - 💬 Ideas? **Just message me**
 
 - 📫 How to reach me **giacomomaldarella@gmail.com**
 
-- 📄 Know about my experiences [available soon](available soon)
+- 📄 Know about my experiences [available soon]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
