@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **giacomomaldarella@gmail.com**
 
-- 📄 Know about my experiences [available soon]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
